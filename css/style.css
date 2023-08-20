@@ -54,7 +54,7 @@ html{
 
 }
 .background{
-    background: url('/img.jpg');
+    background: url('img.jpg');
     background-size: cover;
 }
 .background-firstsection{
