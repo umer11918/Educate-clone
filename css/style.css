@@ -55,13 +55,13 @@ html{
 }
 .background{
     background-size: cover;
-    background: url('./.img.jpg');
+    background: url('.//img.jpg');
     background-color: Black;
     
     
 }
 .background-firstsection{
-    background: url('\./img.jpg');
+    background: url('./img.jpg');
     background-size: cover;
 }
 
