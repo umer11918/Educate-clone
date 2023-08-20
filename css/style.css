@@ -222,7 +222,7 @@ html{
     }
     .box-main{
         flex-direction: column-reverse;
-        width: 100%;
+        width: 25%;
         justify-content: center;
         text-align: center;
         padding-top: 70px;
