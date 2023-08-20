@@ -55,11 +55,12 @@ html{
 }
 .background{
     background-size: cover;
+    background: url('img.jpg');
     
     
 }
 .background-firstsection{
-    background: url('./.img.jpg');
+    background: url('./img.jpg');
     background-size: cover;
 }
 
