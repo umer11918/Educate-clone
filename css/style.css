@@ -225,6 +225,7 @@ html{
         width: 100%;
         justify-content: center;
         text-align: center;
+        padding-top: 70px;
     }
     .firsthalf{
         flex-direction: column;
@@ -234,6 +235,7 @@ html{
         height: 14%;
         flex-direction: column;
         text-align: center;
+        paddind: 40px;
     }
     .secondhalf img{
         flex-direction: column;
