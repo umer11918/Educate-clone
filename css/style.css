@@ -61,9 +61,9 @@ html{
     
 }
 .background-firstsection{
-    background: url('./img.jpg');
+    background: url('./.img.jpg');
+    background: url('\./img.jpg');
     background-size: cover;
-    background-color: Black;
 }
 
 .box-main{
