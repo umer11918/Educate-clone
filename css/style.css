@@ -222,7 +222,7 @@ html{
     }
     .box-main{
         flex-direction: column-reverse;
-        width: 20%;
+        width: 28%;
         justify-content: center;
         text-align: center;
         padding-top: 70px;
@@ -240,6 +240,7 @@ html{
     .secondhalf img{
         flex-direction: column;
         text-align: center;
+        padding-top: 20px;
     }
     .secLeft{
         flex-direction: column;
