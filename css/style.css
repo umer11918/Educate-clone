@@ -55,7 +55,7 @@ html{
 }
 .background{
     background-size: cover;
-    background: url('cd..img.jpg');
+    background: url('/img.jpg');
     background-color: Black;
     
     
